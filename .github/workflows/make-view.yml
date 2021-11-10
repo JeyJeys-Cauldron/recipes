@@ -19,10 +19,8 @@ jobs:
         run: |
           cargo install obsidian-export
           
-          mkdir ./recipe-export/
-
           obsidian-export --version
-          obsidian-export ./recipe-vault/ ./recipe-export/
+          obsidian-export ./recipe-vault/ ./docs/
           
           git config --local user.email "actions@github.com"
           git config --local user.name "Actions Auto Build"

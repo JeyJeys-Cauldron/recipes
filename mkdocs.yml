@@ -2,6 +2,8 @@ site_name: Jan's Recipe Book
 repo_url: https://github.com/janmikusch/recipes
 repo_name: janmikusch/recipes
 
+docs_dir: recipe-export
+
 theme:
   name: material
   palette:
@@ -31,4 +33,6 @@ markdown_extensions:
   - pymdownx.details
   - attr_list
   - admonition
-  
+
+extra_css:
+  - static/css/custom.css
