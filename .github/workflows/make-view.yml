@@ -15,7 +15,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "Actions Auto Build"
-          curl https://sh.rustup.rs -sSf | sh -s -- --default-toolchain none
+          curl https://sh.rustup.rs -sSf | sh -s -- -y
           cargo install obsidian-export
 
           obsidian-export --version
