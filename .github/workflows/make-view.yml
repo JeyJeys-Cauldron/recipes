@@ -17,6 +17,8 @@ jobs:
           git config --local user.name "Actions Auto Build"
           curl https://sh.rustup.rs -sSf | sh -s -- -y
           cargo install obsidian-export
+          
+          mkdir ./recipe-export/
 
           obsidian-export --version
           obsidian-export ./recipe-vault/ ./recipe-export/
