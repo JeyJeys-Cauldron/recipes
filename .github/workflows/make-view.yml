@@ -11,11 +11,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+          override: true
       - name: Generate View
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "Actions Auto Build"
-          curl https://sh.rustup.rs -sSf | sh -s -- -y
           cargo install obsidian-export
           
           mkdir ./recipe-export/
@@ -23,6 +24,8 @@ jobs:
           obsidian-export --version
           obsidian-export ./recipe-vault/ ./recipe-export/
           
+          git config --local user.email "actions@github.com"
+          git config --local user.name "Actions Auto Build"
           git add .
           git commit -m "github workflow update" || true
           git push --force origin HEAD:refs/heads/view
