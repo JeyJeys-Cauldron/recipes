@@ -1,4 +1,4 @@
-name: Fix links
+name: Make view
 
 on:
   push:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: Generat View
+      - name: Generate View
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "Actions Auto Build"
