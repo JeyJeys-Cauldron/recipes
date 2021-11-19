@@ -21,8 +21,7 @@ theme:
 
 plugins:
   - search
-  - ezlinks:
-      wikilinks: true
+  - roamlinks
       
 markdown_extensions:
   - pymdownx.emoji:
