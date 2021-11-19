@@ -2,8 +2,8 @@
 ## Länder Rezepte:
 |	Nr	|	Land			|	Rezept											| 
 |	-	|	---------------	|	---------------------------						| 
-|	1.	|	Irak			|	[[Hauptgerichte/Sabich]]						|
-|	2.	|	Russland		|	[[Hauptgerichte/Pelmeni]]						|
-|	3.	|	Albanien		|	[[Hauptgerichte/Albanische gefüllte Melanzani]] |
-|	4.	|	Iran			|	[[Hauptgerichte/Persisches Abgoosht]]			|
+|	1.	|	Irak			|	[[Sabich]]						|
+|	2.	|	Russland		|	[[Pelmeni]]						|
+|	3.	|	Albanien		|	[[Albanische gefüllte Melanzani]] |
+|	4.	|	Iran			|	[[Persisches Abgoosht]]			|
 
