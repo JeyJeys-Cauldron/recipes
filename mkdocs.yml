@@ -21,7 +21,9 @@ theme:
 
 plugins:
   - search
-
+  - ezlinks:
+      wikilinks: true
+      
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
