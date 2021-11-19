@@ -2,7 +2,12 @@
 
 ![WooWoo](https://www.schweppes.at/cocktail-sync/image-thumb__10229__cocktail-image/woo-woo.webp){width="50%" align="right" loading="lazy"}
 
-## Ingredients - Serves 1
+## Zutaten
+Portionen: 1
+
+|	Zutaten																|
+|    -------------------------------------------   |
+|	---																		|
 
 |                                         |
 | --------------------------------------- |
@@ -12,11 +17,11 @@
 | Eiswürfel                               |
 
 
-## Method
+## Zubrereitung
 Die Zutaten mit einigen Eiswürfeln in den Shaker geben. 
 Kräftig schütteln, die Mischung durch das Barsieb 
 auf weitere Eiswürfel in ein Tumblerglas abseihen.
 
 
-### Sources
-https://www.schweppes.at/mixen/cocktails/woo-woo
+## Sources
+[](https://www.schweppes.at/mixen/cocktails/woo-woo)
