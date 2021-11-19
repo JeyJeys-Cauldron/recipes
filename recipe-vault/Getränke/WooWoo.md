@@ -1,6 +1,6 @@
 # Woo Woo
 
-![WooWoo](https://www.schweppes.at/cocktail-sync/image-thumb__10229__cocktail-image/woo-woo.webp){width="50%" align="right" loading="lazy"}
+![WooWoo](https://www.schweppes.at/cocktail-sync/image-thumb__10229__cocktail-image/woo-woo.webp){width="33%" align="right" loading="lazy"}
 
 ## Zutaten
 Portionen: 1
