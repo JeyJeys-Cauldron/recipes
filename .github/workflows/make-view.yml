@@ -17,10 +17,10 @@ jobs:
           override: true
       - name: Generate View
         run: |
-          cargo install obsidian-export
-          
-          obsidian-export --version
-          obsidian-export ./recipe-vault/ ./docs/
+          # cargo install obsidian-export
+          # obsidian-export --version
+          # obsidian-export ./recipe-vault/ ./docs/
+          cp -r ./recipe-vault/* ./docs
           
           git config --local user.email "actions@github.com"
           git config --local user.name "Actions Auto Build"
