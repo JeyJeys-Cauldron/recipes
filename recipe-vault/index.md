@@ -1,6 +1,5 @@
-Hello from the Otter side
-
-# Länder Rezepte:
+# Startseite
+## Länder Rezepte:
 |	Nr	|	Land			|	Rezept						| 
 |	-	|	---------------	|	---------------------------	| 
 |	1.	|	Irak			|	[Sabich](Hauptgerichte/Sabich.md)					|
