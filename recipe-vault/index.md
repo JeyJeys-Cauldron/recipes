@@ -1,7 +1,7 @@
 Hello from the Otter side
 
 # Länder Rezepte:
-|	NR	|	Land			|	Rezept						| 
+|	Nr	|	Land			|	Rezept						| 
 |	-	|	---------------	|	---------------------------	| 
 |	1.	|	Irak			|	[[Sabich]]					|
 |	2.	|	Russland		|	[[Pelmeni]]					|
