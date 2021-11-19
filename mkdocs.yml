@@ -22,6 +22,9 @@ theme:
 plugins:
   - search
   - roamlinks
+  - exclude:
+      glob:
+        - _templates/*
       
 markdown_extensions:
   - pymdownx.emoji:
