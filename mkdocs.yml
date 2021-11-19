@@ -21,8 +21,7 @@ theme:
 
 plugins:
   - search
-  - ezlinks:
-      wikilinks: true
+  - roamlinks 
       
 markdown_extensions:
   - pymdownx.emoji:
@@ -35,6 +34,9 @@ markdown_extensions:
   - pymdownx.details
   - attr_list
   - admonition
+  - footnotes
+  - toc:
+      permalink: true
 
 extra_css:
   - static/css/custom.css
