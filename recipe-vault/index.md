@@ -8,4 +8,3 @@ Hello from the Otter side
 |	3.	|	Albanien		|	[Albanische gefüllte Melanzani](Hauptgerichte/Albanische%20gefüllte%20Melanzani.md) |
 |	4.	|	Iran			|	[Persisches Abgoosht](Hauptgerichte/Persisches%20Abgoosht.md)		|
 
-
