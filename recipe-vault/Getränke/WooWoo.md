@@ -5,16 +5,12 @@
 ## Zutaten
 Portionen: 1
 
-|	Zutaten																|
-|    -------------------------------------------   |
-|	---																		|
-
-|                                         |
-| --------------------------------------- |
-| **4 cl** Wodka                          |
-| **2 cl** Peach Brandy                   |
-| **8 cl** Cranberry Juice                |
-| Eiswürfel                               |
+|	Menge 		|	Art						|
+| ------------- | ------------------------	|
+| 	**4 cl** 	| Wodka                   	|
+| 	**2 cl** 	| Peach Brandy            	|
+| 	**8 cl** 	| Cranberry Juice         	|
+| 	 			| Eiswürfel               	|
 
 
 ## Zubrereitung
