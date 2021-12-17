@@ -20,4 +20,4 @@ auf weitere Eiswürfel in ein Tumblerglas abseihen.
 
 
 ## Sources
-[](https://www.schweppes.at/mixen/cocktails/woo-woo)
+[https://www.schweppes.at/mixen/cocktails/woo-woo](https://www.schweppes.at/mixen/cocktails/woo-woo)
