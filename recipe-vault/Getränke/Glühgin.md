@@ -14,7 +14,8 @@ Portionen: 4
 | ** 3 Stück**  | Zimtstangen                                                                 |
 | ** 100 ml**   | Gin                                                                         |
 | ** 5 Stück ** | Nelken                                                                      |
-| bei Bedarf    | etwas Zucker                                                                            |
+|               | Inger                                                                       |
+| bei Bedarf    | etwas Zucker                                                                |
 
 
 ## Zubrereitung
